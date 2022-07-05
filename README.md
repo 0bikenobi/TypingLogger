@@ -1,1 +1,1 @@
-# TypingLogger
+# Typing Logger
