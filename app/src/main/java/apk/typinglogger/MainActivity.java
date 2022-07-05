@@ -238,7 +238,6 @@ public class MainActivity extends AppCompatActivity {
                     text.append(SvcAcc.instance.getCurrentText());
                 }
             }
-            //text.append(String.format("%"+555+"s", "").replace(' ', '-'));
             textView.setText(text);
         } catch (Exception e) {
             Toast.makeText(this, e.getMessage(), Toast.LENGTH_LONG).show();
