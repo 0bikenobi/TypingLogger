@@ -52,9 +52,6 @@ public class MainActivity extends AppCompatActivity {
 
         dropDown = findViewById(R.id.dropdown);
         textView = findViewById(R.id.textview);
-        TextView tvadv1 = findViewById(R.id.adv1);
-        TextView tvadv2 = findViewById(R.id.adv2);
-        LinearLayout advLayout = findViewById(R.id.belolayout);
 
         dropDown.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
             @Override
