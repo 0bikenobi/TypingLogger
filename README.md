@@ -1,7 +1,6 @@
 # Typing Logger
 
 ![GitHub](https://img.shields.io/github/license/0bikenobi/TypingLogger)
-![GitHub Sponsors](https://img.shields.io/github/sponsors/0bikenobi)
 ![GitHub last commit](https://img.shields.io/github/last-commit/0bikenobi/TypingLogger)
 
 The purpose of this application is to record text changes in order to restore them later if they were accidentally deleted. The recorded text is being stored on the device in a secure and private folder which is accessible only by the application. The data will not be transferred or shared with other applications or out of the device without the explicit intention of the user.
